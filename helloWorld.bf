@@ -5,7 +5,7 @@
   cell # === |0|1|2|3|4|5|6|7|8|9|10|11|12|13|
   text cell value ===  |counter|'H'|'e'|'l'|'l'|'o'|' '|'W'|'o'|'r'|'l'|'d'|'!'|
   ascii cell value === |counter|072|101|108|108|111|032|087|111|114|108|100|033
-
+  lol the name is funny
 */
 
 **Beginning of program**
